@@ -1,2 +1,0 @@
-username = gout02
-password = siuuu123
